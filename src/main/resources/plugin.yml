@@ -1,0 +1,10 @@
+name: EjectTPA-V2
+version: '1.0-build'
+main: me.eject.EjectTPAV2
+api-version: '1.21'
+commands:
+  tpa:
+
+  tpaccept:
+
+  tpahere:
